@@ -12,6 +12,7 @@
         <module>common-util</module>
         <module>demo-web1</module>
         <module>demo-web2</module>
+        <module>demo-dao</module>
     </modules>
 
     <dependencies>

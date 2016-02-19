@@ -29,4 +29,8 @@ public class StringUtil {
             return source.toUpperCase();
         }
     }
+
+    public static void main(String[] args) {
+        System.out.println("asdfasfdasdf");
+    }
 }
