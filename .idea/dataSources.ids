@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="CRM_TEST@192.168.52.101" uuid="061e02d7-f923-441a-9dc1-0066f3b87ea7">
+    <database-info product="Oracle" version="Oracle Database 10g Enterprise Edition Release 10.2.0.4.0 - 64bit Production&#xa;With the Partitioning, OLAP, Data Mining and Real Application Testing options" jdbc-version="4.0" driver-name="Oracle JDBC driver" driver-version="12.1.0.2.0">
+      <extra-name-characters>$#</extra-name-characters>
+      <identifier-quote-string>&quot;</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="upper" quoted-identifiers="exact"/>
+  </data-source>
+</component>
