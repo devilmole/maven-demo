@@ -32,8 +32,8 @@ public class test {
 //        sqlSessionFactory = new SqlSessionFactoryBuilder().build(reader);
 //        reader.close();
         @SuppressWarnings("resource")
-        ApplicationContext context = new ClassPathXmlApplicationContext(new String[]{"classpath:conf/spring-config.xml"
-                ,"classpath:conf/spring-mybatis.xml"});
+        ApplicationContext context = new ClassPathXmlApplicationContext("classpath:conf/spring-config.xml"
+                ,"classpath:conf/spring-mybatis.xml");
         userMap=(UserMapper)context.getBean("userMapper");
 
     }
