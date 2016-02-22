@@ -7,11 +7,8 @@
           <element id="module-output" name="demo-web1" />
         </element>
         <element id="directory" name="lib">
-          <element id="archive" name="demo-web2-1.0-SNAPSHOT.jar">
-            <element id="module-output" name="demo-web2" />
-          </element>
-          <element id="archive" name="common-util-1.0-SNAPSHOT.jar">
-            <element id="module-output" name="common-util" />
+          <element id="archive" name="demo-util-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="demo-util" />
           </element>
         </element>
       </element>

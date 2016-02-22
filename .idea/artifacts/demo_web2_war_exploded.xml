@@ -17,8 +17,8 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.2.4.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-web:4.2.4.RELEASE" />
           <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
-          <element id="archive" name="common-util-1.0-SNAPSHOT.jar">
-            <element id="module-output" name="common-util" />
+          <element id="archive" name="demo-util-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="demo-util" />
           </element>
         </element>
       </element>
