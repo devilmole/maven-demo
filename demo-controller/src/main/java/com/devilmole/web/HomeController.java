@@ -3,12 +3,9 @@ package com.devilmole.web;
 import com.devilmole.common.util.StringUtil;
 import com.devilmole.service.DemoService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
-
-import javax.annotation.Resource;
 
 /**
  * Created by Administrator on 2016/2/19 0019.

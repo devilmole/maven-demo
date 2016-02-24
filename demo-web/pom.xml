@@ -6,9 +6,9 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>demo-web2</artifactId>
+    <artifactId>demo-web</artifactId>
     <packaging>war</packaging>
-    <name>demo-web2 Maven Webapp</name>
+    <name>demo-web Maven Webapp</name>
     <url>http://maven.apache.org</url>
 
     <dependencies>
@@ -47,7 +47,7 @@
       </dependency>
         <dependency>
             <groupId>com.devilmole.demo</groupId>
-            <artifactId>demo-service</artifactId>
+            <artifactId>demo-controller</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
         <dependency>
@@ -56,6 +56,6 @@
         </dependency>
     </dependencies>
   <build>
-      <finalName>demo-web2</finalName>
+      <finalName>demo-web</finalName>
   </build>
 </project>

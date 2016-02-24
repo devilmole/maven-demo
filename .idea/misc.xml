@@ -5,14 +5,19 @@
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/demo-util" />
+    <file type="web" url="file://$PROJECT_DIR$/demo-web" />
     <file type="web" url="file://$PROJECT_DIR$/demo-web1" />
-    <file type="web" url="file://$PROJECT_DIR$/demo-web2" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/demo-web1/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">

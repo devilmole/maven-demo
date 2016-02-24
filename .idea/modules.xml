@@ -3,11 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/demo.iml" filepath="$PROJECT_DIR$/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-controller/demo-controller.iml" filepath="$PROJECT_DIR$/demo-controller/demo-controller.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-dao/demo-dao.iml" filepath="$PROJECT_DIR$/demo-dao/demo-dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-service/demo-service.iml" filepath="$PROJECT_DIR$/demo-service/demo-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-util/demo-util.iml" filepath="$PROJECT_DIR$/demo-util/demo-util.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demo-web1/demo-web1.iml" filepath="$PROJECT_DIR$/demo-web1/demo-web1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demo-web2/demo-web2.iml" filepath="$PROJECT_DIR$/demo-web2/demo-web2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-web/demo-web2.iml" filepath="$PROJECT_DIR$/demo-web/demo-web2.iml" />
     </modules>
   </component>
 </project>

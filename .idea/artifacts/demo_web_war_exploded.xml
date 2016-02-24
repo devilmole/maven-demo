@@ -1,10 +1,10 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="demo-web2:war exploded">
-    <output-path>$PROJECT_DIR$/demo-web2/target/demo-web2</output-path>
+  <artifact type="exploded-war" name="demo-web:war exploded">
+    <output-path>$PROJECT_DIR$/demo-web/target/demo-web</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="demo-web2" />
+          <element id="module-output" name="demo-web" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.springframework:spring-context:4.2.4.RELEASE" />
@@ -20,6 +20,9 @@
           <element id="archive" name="demo-util-1.0-SNAPSHOT.jar">
             <element id="module-output" name="demo-util" />
           </element>
+          <element id="archive" name="demo-controller-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="demo-controller" />
+          </element>
           <element id="archive" name="demo-service-1.0-SNAPSHOT.jar">
             <element id="module-output" name="demo-service" />
           </element>
@@ -34,12 +37,13 @@
           <element id="library" level="project" name="Maven: commons-pool:commons-pool:1.5.4" />
           <element id="library" level="project" name="Maven: org.springframework:spring-test:4.2.4.RELEASE" />
           <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+          <element id="library" level="project" name="ojdbc6" />
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/demo-web2/target/demo-web2/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/demo-web/target/demo-web/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="demo-web2/web/Web" />
+      <element id="javaee-facet-resources" facet="demo-web/web/Web" />
     </root>
   </artifact>
 </component>
