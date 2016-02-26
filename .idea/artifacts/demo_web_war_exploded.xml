@@ -37,7 +37,6 @@
           <element id="library" level="project" name="Maven: commons-pool:commons-pool:1.5.4" />
           <element id="library" level="project" name="Maven: org.springframework:spring-test:4.2.4.RELEASE" />
           <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
-          <element id="library" level="project" name="ojdbc6" />
         </element>
       </element>
       <element id="directory" name="META-INF">
