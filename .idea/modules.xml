@@ -8,7 +8,6 @@
       <module fileurl="file://$PROJECT_DIR$/demo-service/demo-service.iml" filepath="$PROJECT_DIR$/demo-service/demo-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-util/demo-util.iml" filepath="$PROJECT_DIR$/demo-util/demo-util.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-web/demo-web.iml" filepath="$PROJECT_DIR$/demo-web/demo-web.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demo-web/demo-web2.iml" filepath="$PROJECT_DIR$/demo-web/demo-web2.iml" />
     </modules>
   </component>
 </project>
