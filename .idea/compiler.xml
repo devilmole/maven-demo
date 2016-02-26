@@ -29,6 +29,7 @@
         <module name="demo-util" />
         <module name="demo-web" />
         <module name="demo-web2" />
+        <module name="restful-spring" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -41,6 +42,7 @@
       <module name="demo-web" target="1.5" />
       <module name="demo-web1" target="1.5" />
       <module name="demo-web2" target="1.5" />
+      <module name="restful-spring" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
