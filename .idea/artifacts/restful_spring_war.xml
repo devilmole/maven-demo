@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="restful-spring:war">
+    <output-path>$PROJECT_DIR$/restful-spring/target</output-path>
+    <root id="archive" name="restful-spring-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="restful-spring:war exploded" />
+    </root>
+  </artifact>
+</component>
