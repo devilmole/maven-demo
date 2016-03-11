@@ -18,7 +18,7 @@ public class EmployeeDS {
 		allEmployees.put(e1.getId(), e1);
 		allEmployees.put(e2.getId(), e2);
 	}
-	
+
 	public void add(Employee e) {
 		allEmployees.put(e.getId(), e);
 	}

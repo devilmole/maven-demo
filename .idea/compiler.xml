@@ -25,6 +25,7 @@
         <module name="common-util" />
         <module name="demo-controller" />
         <module name="demo-dao" />
+        <module name="demo-model" />
         <module name="demo-service" />
         <module name="demo-util" />
         <module name="demo-web" />
@@ -37,6 +38,7 @@
       <module name="demo" target="1.5" />
       <module name="demo-controller" target="1.5" />
       <module name="demo-dao" target="1.5" />
+      <module name="demo-model" target="1.5" />
       <module name="demo-service" target="1.5" />
       <module name="demo-util" target="1.5" />
       <module name="demo-web" target="1.5" />

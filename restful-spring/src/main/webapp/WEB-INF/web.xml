@@ -7,7 +7,7 @@
     <display-name>dw.spring3.rest</display-name>
 
     <welcome-file-list>
-        <welcome-file>index.html</welcome-file>
+        <welcome-file>index.jsp</welcome-file>
     </welcome-file-list>
 
     <!-- The context params that read by ContextLoaderListener  -->
@@ -20,6 +20,7 @@
 
     <!-- This listener will load other application context file in addition to springweb-servlet.xml -->
     <listener>
+
         <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
     </listener>
 
@@ -37,7 +38,7 @@
     <jsp-config>
         <taglib>
             <taglib-uri>http://java.sun.com/jsp/jstl/core</taglib-uri>
-            <taglib-location>classpath:tags/c.tld</taglib-location>
+            <taglib-location>/WEB-INF/tags/c.tld</taglib-location>
         </taglib>
     </jsp-config>
 </web-app>
